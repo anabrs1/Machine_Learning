@@ -1,4 +1,4 @@
-Copitigths: Machine Learning counse University of Washington - Machine Learning Foundations: A CS approach - 2017
+Copyrights: Machine Learning counse University of Washington - Machine Learning Foundations: A CS approach - 2017
 Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  Do you want to be able to converse with specialists about anything from regression and classification to deep learning and recommender systems?
 
 In this course, you will get hands-on experience with machine learning from a series of practical case-studies.  At the end of the first course you will have studied how to predict house prices based on house-level features, analyze sentiment from user reviews, retrieve documents of interest, recommend products, and search for images.  Through hands-on practice with these use cases, you will be able to apply machine learning methods in a wide range of domains.
